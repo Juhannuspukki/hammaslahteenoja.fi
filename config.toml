@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "fi"
 title = "Hammaslääkäripalvelu Lähteenoja"
 
