@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+{{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.banner ) }}
+{{ $resizedLarge := $imageResource.Resize "x1080 q80"}}
+{{ $resizedMedium := $imageResource.Resize "x720 q80"}}
+{{ $resizedSmall := $imageResource.Resize "x540 q80"}}
+
+<section>
+  <picture>
+    <source media="(min-height: 720px)" srcset="{{ $resizedLarge.RelPermalink }}">
+    <source media="(min-height: 540px)" srcset="{{ $resizedMedium.RelPermalink }}">
+    <img src="{{ $resizedSmall.RelPermalink }}" alt="{{ .Params.alt }}" class="front-hero-image">
+  </picture>
+  <div class="container small-container centered">
+    <h1>{{ .Params.title }}</h1>
+    {{ .Content }}
+  </div>
+</section>
+
+{{ end }}

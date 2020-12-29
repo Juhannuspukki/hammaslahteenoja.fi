@@ -1,0 +1,32 @@
+$bread-font: 'Nota', serif;
+$header-font: 'Nota', serif;
+
+$black-color: #000000;
+$dark-color: #333333;
+$white-color: #FFFFFF;
+$blue-color: #18B0D8;
+
+$size-xs: 0.5rem;
+$size-s: 1rem;
+$size-sm: 1.5rem;
+$size-m: 2rem;
+$size-ml: 4rem;
+$size-l: 6rem;
+$size-xl: 8rem;
+
+$responsive-font-big: calc(24px + 2.2vw);
+$responsive-font-medium: calc(24px + 1.8vw);
+
+@font-face {
+  font-family: "Nota";
+  font-display: swap;
+  font-weight: 300;
+  src: url('/fonts/Noteworthy-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Nota";
+  font-display: swap;
+  font-weight: 700;
+  src: url('/fonts/Noteworthy-Bold.ttf') format('truetype');
+}

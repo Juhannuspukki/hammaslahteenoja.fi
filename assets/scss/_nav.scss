@@ -1,0 +1,68 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 12;
+  background-color: $white-color;
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  .container {
+    max-width: 1120px;
+  }
+  .image-navlink {
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.675rem;
+    height: 5rem;
+    img {
+      height: 100%;
+    }
+  }
+  .navlink {
+    float: right;
+    display: block;
+    color: $dark-color;
+    text-align: center;
+    padding: 1.35rem 16px;
+    text-decoration: none;
+    font-size: 1.15rem;
+    &.active {
+      text-decoration: underline;
+      text-decoration-color: $blue-color;
+    }
+  }
+  .burger {
+    display: none;
+    background-color: transparent;
+    border: none;
+    padding: 0.85rem 0;
+    cursor: pointer;
+    img {
+      height: 3.25rem;
+      padding: 0.675rem;
+    }
+  }
+}
+
+@media screen and (max-width: 712px) {
+  .navbar a:not(:first-child) {display: none;}
+  .navbar .burger {
+    float: right;
+    display: block;
+  }
+  .navbar.responsive .burger {
+    position: absolute;
+    right: 15px;
+    top: 0;
+  }
+  .navbar.responsive a:not(:first-child) {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .navbar.responsive + .navbar-background {
+    z-index: 11;
+    height: 14rem;
+    border-bottom: 1px solid $white-color;
+  }
+}

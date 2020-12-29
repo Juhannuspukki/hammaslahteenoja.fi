@@ -1,0 +1,16 @@
+<nav class="navbar" id="nav">
+  <div class="container">
+    <a href="/" class="image-navlink" aria-label="Etusivulle">
+      <img src="/images/logo.svg" aria-hidden="true">
+    </a>
+    {{ range .Site.Menus.nav.ByWeight }}
+      <a href="{{.URL}}" class="navlink {{ if or ($.IsMenuCurrent "nav" .) ($.HasMenuCurrent "nav" .) }}active{{ end }}">
+        {{ .Name }}
+      </a>
+      {{ end }}
+    <button onclick="navBar()" class="burger" aria-label="Avaa valikko">
+      <img src="/images/menu.svg" aria-label="hidden">
+    </button>
+  </div>
+</nav>
+<div class="navbar-background"></div>

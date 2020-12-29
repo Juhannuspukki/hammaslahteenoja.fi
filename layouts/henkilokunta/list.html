@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<section>
+  <div class="container small-container">
+    {{ .Content }}
+    <div class="row">
+      {{range .Params.staff }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .portrait ) }}
+        {{ $resizedImage := $imageResource.Fill "226x226 q80"}}
+        <div class="col-md-6 staff-card">
+          <img class="staff-picture" src="{{ $resizedImage.RelPermalink }}" aria-hidden="true">
+          <h2>{{ .name }}</h2>
+          <p>{{ .description | markdownify }}</p>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
