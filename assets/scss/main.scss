@@ -17,6 +17,7 @@ p, a, ul, ol, li, td, figcaption {
   letter-spacing: 0.5px;
   line-height: 1.9;
   text-decoration-color: $blue-color;
+  font-size: 1.15rem;
 }
 
 h1 {
@@ -49,7 +50,7 @@ main {
 
 .small-container {
   max-width: 512px;
-  padding: 4rem 0 4rem;
+  padding: 4rem 1rem 4rem;
 }
 
 .staff-card {

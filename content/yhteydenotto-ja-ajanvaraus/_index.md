@@ -1,10 +1,13 @@
 ---
-title: Ota yhteyttä
+title: Yhteydenotto ja ajanvaraus
 metaDescription: Hammaslääkäripalvelu Lähteenoja Oy tarjoaa hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
 banner: /uploads/Rectangle.png
 ---
 
-# Ota yhteyttä
+# Yhteydenotto ja ajanvaraus
+
+Kiireetön tarkastusaika on mahdollista varata [tästä](#) linkistä. 
+Muissa tapauksissa ota yhteyttä puhelimitse tai sähköpostitse.
 
 **Puhelin:**  
 Toivottavin yhteydenottotapa on tekstiviestillä tai Whatsapp-viestillä.

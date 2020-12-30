@@ -21,4 +21,5 @@ Hammashoitoon on mahdollista saada Kelan kautta yksityisen hammashoidon korvaust
 
 ## Maksutavat
 
-Pankkikortti tai lasku, ei käteismaksua.
+Pankkikortti tai lasku.
+Ei käteismaksua.

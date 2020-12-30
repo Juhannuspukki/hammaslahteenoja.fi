@@ -14,12 +14,7 @@ title = "Hammaslääkäripalvelu Lähteenoja"
     url = "/palvelut/"
     weight = 3
   [[menu.nav]]
-    identifier = "ota-yhteytta"
-    name = "Ota yhteyttä"
-    url = "/ota-yhteytta/"
+    identifier = "yhteydenotto-ja-ajanvaraus"
+    name = "Yhteydenotto ja ajanvaraus"
+    url = "/yhteydenotto-ja-ajanvaraus/"
     weight = 2
-  [[menu.nav]]
-    identifier = "varaa-aika"
-    name = "Varaa aika"
-    url = "#"
-    weight = 1

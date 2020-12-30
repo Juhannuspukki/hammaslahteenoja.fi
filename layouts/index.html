@@ -7,8 +7,8 @@
 
 <section>
   <picture>
-    <source media="(min-height: 720px)" srcset="{{ $resizedLarge.RelPermalink }}">
-    <source media="(min-height: 540px)" srcset="{{ $resizedMedium.RelPermalink }}">
+    <source media="(min-width: 720px)" srcset="{{ $resizedLarge.RelPermalink }}">
+    <source media="(min-width: 540px)" srcset="{{ $resizedMedium.RelPermalink }}">
     <img src="{{ $resizedSmall.RelPermalink }}" alt="{{ .Params.alt }}" class="front-hero-image">
   </picture>
   <div class="container small-container centered">
