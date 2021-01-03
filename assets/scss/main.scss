@@ -72,4 +72,7 @@ main {
 footer {
   border-top: 3px solid $blue-color;
   padding: 3rem 0;
+  .logo {
+    max-width: 20rem;
+  }
 }
