@@ -40,7 +40,7 @@ collections:
             widget: markdown
             hint: ""
             default: ""
-      - file: yhteydenotto-ja-ajanvaraus/_index.md
+      - file: content/yhteydenotto-ja-ajanvaraus/_index.md
         label: Yhteydenotto ja ajanvaraus
         name: yhteydenotto-ja-ajanvaraus
         fields:
@@ -62,7 +62,7 @@ collections:
             widget: markdown
             hint: ""
             default: ""
-      - file: palvelut/_index.md
+      - file: content/palvelut/_index.md
         label: Palvelut
         name: palvelut
         fields:
@@ -84,7 +84,7 @@ collections:
             widget: markdown
             hint: ""
             default: ""
-      - file: henkilokunta/_index.md
+      - file: content/henkilokunta/_index.md
         label: Henkilökunta
         name: henkilokunta
         fields:
