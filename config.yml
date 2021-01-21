@@ -1,0 +1,18 @@
+baseURL: /
+languageCode: fi
+title: Hammaslääkäripalvelu Lähteenoja
+
+menu:
+  nav:
+    - identifier: henkilokunta
+      name: Henkilökunta
+      url: /henkilokunta/
+      weight: 4
+    - identifier: palvelut
+      name: Palvelut
+      url: /palvelut/
+      weight: 3
+    - identifier: yhteydenotto-ja-ajanvaraus
+      name: Yhteydenotto ja ajanvaraus
+      url: /yhteydenotto-ja-ajanvaraus/
+      weight: 2

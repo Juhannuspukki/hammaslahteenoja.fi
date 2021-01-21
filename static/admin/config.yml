@@ -1,0 +1,134 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "content/uploads" # Media files will be stored in the repo under images
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://hammaslahteenoja.netlify.app
+slug:
+  encoding: "ascii"
+  clean_accents: true
+collections:
+  - label: "Sivut"
+    name: "pages"
+    files:
+      - file: content/_index.md
+        label: Etusivu
+        name: index
+        fields:
+          - label: Otsikko
+            name: title
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+          - label: Meta-kuvaus
+            name: metaDescription
+            required: true
+            widget: text
+            hint: ""
+            default: ""
+          - label: Kuva
+            name: banner
+            required: true
+            widget: image
+            hint: ""
+            default: ""
+            allow_multiple: false
+          - label: Teksti
+            name: body
+            required: true
+            widget: markdown
+            hint: ""
+            default: ""
+      - file: yhteydenotto-ja-ajanvaraus/_index.md
+        label: Yhteydenotto ja ajanvaraus
+        name: yhteydenotto-ja-ajanvaraus
+        fields:
+          - label: Otsikko
+            name: title
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+          - label: Meta-kuvaus
+            name: metaDescription
+            required: true
+            widget: text
+            hint: ""
+            default: ""
+          - label: Teksti
+            name: body
+            required: true
+            widget: markdown
+            hint: ""
+            default: ""
+      - file: palvelut/_index.md
+        label: Palvelut
+        name: palvelut
+        fields:
+          - label: Otsikko
+            name: title
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+          - label: Meta-kuvaus
+            name: metaDescription
+            required: true
+            widget: text
+            hint: ""
+            default: ""
+          - label: Teksti
+            name: body
+            required: true
+            widget: markdown
+            hint: ""
+            default: ""
+      - file: henkilokunta/_index.md
+        label: Henkilökunta
+        name: henkilokunta
+        fields:
+          - label: Otsikko
+            name: title
+            required: true
+            widget: string
+            hint: ""
+            default: ""
+          - label: Meta-kuvaus
+            name: metaDescription
+            required: true
+            widget: text
+            hint: ""
+            default: ""
+          - label: Teksti
+            name: body
+            required: true
+            widget: markdown
+            hint: ""
+            default: ""
+          - label: Henkilö
+            name: staff
+            widget: list
+            hint: ""
+            default: ""
+            allow_add: true
+            fields:
+              - label: Nimi
+                name: name
+                required: true
+                widget: string
+                hint: ""
+                default: ""
+              - label: Naama
+                name: portrait
+                required: true
+                widget: image
+                hint: ""
+                default: ""
+                allow_multiple: false
+              - label: Kuvaus
+                name: description
+                required: false
+                widget: text
+                hint: ""
+                default: ""
