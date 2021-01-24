@@ -1,13 +1,14 @@
 ---
 title: Palvelut
-metaDescription: Hammaslääkäripalvelu Lähteenoja Oy tarjoaa hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
+metaDescription: Hammaslääkäripalvelu Lähteenoja Oy tarjoaa
+  hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön
+  pääsy.
 banner: /uploads/Rectangle.png
 ---
-
 # Palvelut
 
 * Tarkastukset
-* Röntgentutkimuset (intraoraaliröntgen sekä panoraamaröntgen)
+* Röntgentutkimukset
 * Korjaava karieshoito
 * Parodontologinen hoito
 * Hampaiden poistot
@@ -15,9 +16,9 @@ banner: /uploads/Rectangle.png
 * Protetiikka
 * Purenta- ja stabilisaatiokiskot
 
-Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme myös leikkauskelpoisuustodistukset.
+Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
 
-Hammashoitoon on mahdollista saada Kelan kautta yksityisen hammashoidon korvausta. Korvaus tapahtuu suorakorvauksena, joten potilas saa sen välittömästi.
+Kelan kautta saatava korvaus yksityiseen hammashoitoon tulee suorakorvauksena.
 
 ## Maksutavat
 
