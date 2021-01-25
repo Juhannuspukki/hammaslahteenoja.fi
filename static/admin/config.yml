@@ -132,3 +132,24 @@ collections:
                 widget: text
                 hint: ""
                 default: ""
+  - label: "Footer"
+    name: "footer"
+    files:
+      - label: "Footer"
+        name: "footer"
+        file: "content/headless/footer.md"
+        fields: # The fields for each document, usually in front matter
+          - label: "Osoite"
+            name: "address"
+            widget: "string"
+          - label: "Sähköposti"
+            name: "email"
+            widget: "string"
+          - label: "Puhelinnumero"
+            name: "phone"
+            widget: "string"
+          - label: "Whatsapp-linkki"
+            name: "whatsappLink"
+            widget: "string"
+      
+  

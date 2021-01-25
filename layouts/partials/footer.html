@@ -1,12 +1,15 @@
+{{ $headless := .Site.GetPage "/headless" }}
+{{ $reusablePages := $headless.Resources.GetMatch (strings.TrimPrefix "/headless/" "footer.md" ) }}
+
 <footer class="centered">
   <img src="/images/logo.svg" class="logo" alt="Hammaslääkäripalvelu Lähteenoja">
-  <p><strong>Satakunnankatu 17, 27510 Eura</strong></p>
+  <p><strong>{{ $reusablePages.Params.address }}</strong></p>
   <p>
-    <a href="mailto:hammaslaakaripalvelulahteenoja@gmail.com">hammaslaakaripalvelulahteenoja@gmail.com</a>
+    <a href="mailto:{{ $reusablePages.Params.email }}">{{ $reusablePages.Params.email }}</a>
   </p>
   <p>
-    <a href="https://wa.me/358442307719" aria-label="Whatsapp" target="_blank" rel="noreferrer noopener">
-      +358 44 230 7719
+    <a href="{{ $reusablePages.Params.whatsappLink }}" aria-label="Whatsapp" target="_blank" rel="noreferrer noopener">
+      {{ $reusablePages.Params.phone }}
     </a>
   </p>
 </footer>
