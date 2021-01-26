@@ -16,7 +16,7 @@ banner: /uploads/Rectangle.png
 * Protetiikka
 * Purenta- ja stabilisaatiokiskot
 
-Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
+Apua saatavissa särky sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
 
 Kelan kautta saatava korvaus yksityiseen hammashoitoon tulee suorakorvauksena.
 
