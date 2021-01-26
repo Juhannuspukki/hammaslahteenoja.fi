@@ -1,6 +1,6 @@
 ---
 title: Henkilökunta
-metaDescription: Hammaslääkäripalvelu Lähteenoja Oy tarjoaa
+metaDescription: Hammaslääkäripalvelu Juho Lähteenoja tarjoaa
   hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön
   pääsy.
 banner: /uploads/Rectangle.png
