@@ -1,13 +1,19 @@
 ---
 title: Yhteydenotto ja ajanvaraus
-metaDescription: Hammaslääkäripalvelu Lähteenoja Oy tarjoaa
-  hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön
-  pääsy.
+metaDescription: >-
+  Hammaslääkäripalvelu Lähteenoja Oy tarjoaa hammaslääkäripalveluita Euran
+  keskustassa katutasossa. Hoitolaan on esteetön pääsy.
+
+  https://appointment.assiscare.com/#lahteenoja/appointment
 banner: /uploads/Rectangle.png
 ---
 # Yhteydenotto ja ajanvaraus
 
-Kiireetön tarkastusaika on mahdollista varata \[tästä](https://appointment.assiscare.com/#lahteenoja/appointment)linkistä. 
+Kiireetön tarkastusaika on mahdollista varata <!--StartFragment-->
+
+`[tästä](https://appointment.assiscare.com/#lahteenoja/appointment)`
+
+<!--EndFragment-->
 Muissa tapauksissa ota yhteyttä puhelimitse tai sähköpostitse.
 
 **Puhelin:**\
