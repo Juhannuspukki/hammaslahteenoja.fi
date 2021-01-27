@@ -18,7 +18,7 @@ Yhteydenotto myös tarvittaessa puhelimitse.\
 [044 230 7719](https://wa.me/358442307719)
 
 **Sähköposti:**
-
+juho@hammasjuho.fi
 **Osoite:**\
 Hammaslääkäripalvelu Lähteenoja Oy\
 Satakunnankatu 17\
