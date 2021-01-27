@@ -19,6 +19,7 @@ Yhteydenotto myös tarvittaessa puhelimitse.\
 
 **Sähköposti:**
 juho@hammasjuho.fi
+
 **Osoite:**\
 Hammaslääkäripalvelu Lähteenoja Oy\
 Satakunnankatu 17\
