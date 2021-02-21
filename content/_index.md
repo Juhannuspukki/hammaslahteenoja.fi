@@ -5,4 +5,4 @@ metaDescription: Hammaslääkäri Juho Lähteenoja tarjoaa hammaslääkäripalve
 banner: /uploads/img_44712.jpg
 ---
 
-Hammaslääkäripalvelu Juho Lähteenoja tarjoaa hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
+Hammaslääkäri Juho Lähteenoja tarjoaa hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
