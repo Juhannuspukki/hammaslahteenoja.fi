@@ -7,10 +7,12 @@ banner: /uploads/Rectangle.png
 ---
 # Yhteydenotto ja ajanvaraus
 
-Kiireetön tarkastusaika on mahdollista varata
+**Kiireetön tarkastusaika** on mahdollista varata
 [tästä](https://appointment.assiscare.com/#lahteenoja/appointment)
 
 Muissa tapauksissa ota yhteyttä puhelimitse tai sähköpostitse.
+
+Varaattehan aikaa esitietokaavakkeen täyttämiseen odotushuoneessa ensimmäistä kertaa vastaanotolle tullessanne.
 
 **Puhelin:**\
 Toivottavin yhteydenottotapa on tekstiviestillä tai Whatsapp-viestillä.
