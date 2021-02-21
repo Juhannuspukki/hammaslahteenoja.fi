@@ -1,8 +1,7 @@
 ---
 title: Palvelut
-metaDescription: Hammaslääkäripalvelu Juho Lähteenoja tarjoaa
-  hammaslääkäripalveluita Euran keskustassa katutasossa. Hoitolaan on esteetön
-  pääsy.
+metaDescription: Hammaslääkäri Juho Lähteenoja tarjoaa hammaslääkäripalveluita
+  Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
 banner: /uploads/Rectangle.png
 ---
 # Palvelut
