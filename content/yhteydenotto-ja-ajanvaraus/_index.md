@@ -9,7 +9,7 @@ banner: /uploads/Rectangle.png
 **Kiireetön tarkastusaika** on mahdollista varata
 [tästä](https://appointment.assiscare.com/#lahteenoja/appointment)
 
-Muissa tapauksissa ota yhteyttä puhelimitse tai sähköpostitse.
+Muissa tapauksissa yhteydenotto puhelimitse tai sähköpostitse.
 
 Varaattehan aikaa esitietokaavakkeen täyttämiseen odotushuoneessa ensimmäistä kertaa vastaanotolle tullessanne.
 
