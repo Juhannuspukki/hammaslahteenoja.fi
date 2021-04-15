@@ -10,6 +10,9 @@ staff:
   - portrait: /uploads/img_4491.jpg
     name: Mirja Mäkelä
     description: Hammashoitaja
+  - name: Marianne Haanpää
+    portrait: /uploads/Rectangle.png
+    description: Hammashoitaja
 ---
 
 # Henkilökunta
