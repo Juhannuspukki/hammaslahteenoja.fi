@@ -1,7 +1,7 @@
 ---
 title: Palvelut
 metaDescription: Hammaslääkäri Juho Lähteenoja tarjoaa hammaslääkäripalveluita
-  Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
+  Euran keskustassa katutasossa.
 banner: /uploads/Rectangle.png
 ---
 # Palvelut
@@ -15,11 +15,11 @@ banner: /uploads/Rectangle.png
 * Protetiikka
 * Purenta- ja stabilisaatiokiskot
 
-Apua saatavissa särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
+Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
 
 Kelan kautta saatava korvaus yksityiseen hammashoitoon tulee suorakorvauksena.
 
 ## Maksutavat
 
-Pankkikortti tai lasku.
+Pankkikorttimaksupääte tai lasku.
 Ei käteismaksua.
