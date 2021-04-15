@@ -1,7 +1,7 @@
 ---
 title: Yhteydenotto ja ajanvaraus
 metaDescription: Hammaslääkäri Juho Lähteenoja tarjoaa hammaslääkäripalveluita
-  Euran keskustassa katutasossa. Hoitolaan on esteetön pääsy.
+  Euran keskustassa katutasossa.
 banner: /uploads/Rectangle.png
 ---
 # Yhteydenotto ja ajanvaraus
