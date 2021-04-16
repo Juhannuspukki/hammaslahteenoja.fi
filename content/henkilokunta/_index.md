@@ -11,7 +11,7 @@ staff:
     name: Mirja Mäkelä
     description: Hammashoitaja
   - name: Marianne Haanpää
-    portrait: /uploads/img_4558-1.jpg
+    portrait: /uploads/img_4558-2.jpg
     description: Hammashoitaja
 ---
 
