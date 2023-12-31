@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "content/uploads" # Media files will be stored in the repo under images
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
-site_url: https://hammaslahteenoja.netlify.app
+site_url: https://hammasjuho.fi
 slug:
   encoding: "ascii"
   clean_accents: true
