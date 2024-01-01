@@ -21,5 +21,5 @@ Kelan kautta saatava korvaus yksityiseen hammashoitoon tulee suorakorvauksena.
 
 ## Maksutavat
 
-Pankkikorttimaksupääte tai lasku.
+Käytössä on pankkikorttimaksupääte, lasku tai E-passi.
 Ei käteismaksua.
