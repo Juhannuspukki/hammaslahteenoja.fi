@@ -1,0 +1,17 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.125.7"
+  NODE_VERSION = "20.11.1"
+  GO_VERSION = "1.21"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+  HUGO_VERSION = "0.125.7"
+  NODE_VERSION = "20.11.1"
+  GO_VERSION = "1.21"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --enableGitInfo --baseURL $DEPLOY_PRIME_URL"
