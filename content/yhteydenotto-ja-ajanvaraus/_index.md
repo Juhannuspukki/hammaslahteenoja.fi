@@ -6,10 +6,10 @@ banner: /uploads/Rectangle.png
 ---
 # Yhteydenotto ja ajanvaraus
 
-**Kiireetön tarkastusaika** on mahdollista varata
+**Särky-, lohkeama- tai tarkastusaika** on mahdollista varata
 [tästä](http://booking.assiscare.com/lahteenoja/appointment)
 
-Muissa tapauksissa yhteydenotto puhelimitse tai sähköpostitse.
+Yhteydenotto myös puhelimitse tai sähköpostitse.
 
 Varaattehan aikaa esitietokaavakkeen täyttämiseen odotushuoneessa ensimmäistä kertaa vastaanotolle tullessanne.
 
