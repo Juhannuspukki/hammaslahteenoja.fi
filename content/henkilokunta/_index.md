@@ -7,11 +7,11 @@ staff:
   - portrait: /uploads/img_4485-1.jpg
     name: Juho Lähteenoja
     description: Valmistunut hammaslääketieteen lisensiaatiksi Turun yliopistosta 2018.
-  - portrait: /uploads/img_4491-1.jpg
-    name: Mirja Mäkelä
+  - portrait: /uploads/logo.png
+    name: "1"
     description: Hammashoitaja
-  - name: Marianne Haanpää
-    portrait: /uploads/img_4558-2.jpg
+  - name: "2"
+    portrait: /uploads/logo.png
     description: Hammashoitaja
 ---
 
