@@ -17,6 +17,10 @@ banner: /uploads/Rectangle.png
 
 Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
 
+
+
+
+
 # Hinnasto
 
 Yleisimpien toimenpiteiden omavastuuosuudet Kelan suorakorvausvähennyksen jälkeen:
@@ -31,7 +35,7 @@ Tarkastuksessa otettavat rtg-kuvat  43,00€
 
 Yksittäinen rtg-kuva 30,00€
 
-Koko leuan rtg-kuva (PTG-kuva) 99,00€
+Koko leuan rtg-kuva (PTG-kuva) 100,00€
 
 **Paikkaukset:**
 
@@ -41,17 +45,17 @@ Kahden pinnan täyte 140,00€
 
 Kolmen tai neljän pinnan täyte 160,00€
 
-Muovikruunu 190,00€
+Muovikruunu 200,00€
 
 **Hammaskiven poisto:**
 
-45,00-165,00€ riippuen käytetystä ajasta.
+45,00-185,00€ riippuen käytetystä ajasta.
 
 **Hampaan poisto:**
 
-Tavallinen hampaan poisto 99,00€
+Tavallinen hampaan poisto 100,00€
 
-Vaativa hampaan poisto 149,00€
+Vaativa hampaan poisto 150,00€
 
 Hampaan poiston hintaan sisältyy puudutus.
 
@@ -62,6 +66,10 @@ Pintapuudutus 19,00€
 Puudutus 26,00-29,00€
 
 Ei käynti-, toimisto-, kanta- tai e-reseptimaksuja.
+
+
+
+
 
 ## Maksutavat
 
