@@ -28,11 +28,11 @@ Yleisimpien toimenpiteiden omavastuuosuudet Kelan suorakorvausvähennyksen jälk
 
 Tarkastus 51,50€
 
+Tarkastuksessa otettavat röntgen-kuvat  43,00€
 
+Yksittäinen röntgen-kuva 30€
 
-Tarkastuksen yhteydessä otettavat röntgen-kuvat  (Bitewing, sis. 2 kuvaa) 43,00€
-
-
+Koko leuan röntgen-kuva (PTG-kuva) 100€
 
 
 
