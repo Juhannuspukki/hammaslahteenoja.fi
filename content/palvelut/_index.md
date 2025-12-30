@@ -26,39 +26,61 @@ Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpo
 Yleisimpien toimenpiteiden omavastuuosuudet Kelan suorakorvausvähennyksen jälkeen:
 
 
-Tarkastus 51,50€
+**Tarkastus:**
 
-Tarkastuksessa otettavat röntgen-kuvat  43,00€
-
-Yksittäinen röntgen-kuva 30€
-
-Koko leuan röntgen-kuva (PTG-kuva) 100€
+Suun perustutkimus 51,50€
 
 
 
+**Kuvantaminen:**
 
-Yksittäinen 
+Tarkastuksessa otettavat rtg-kuvat  43,00€
 
-* Tarkastukset
-* Röntgentutkimukset
-* Korjaava karieshoito
-* Parodontologinen hoito
-* Hampaiden poistot
-* Biopsiat
-* Protetiikka
-* Purenta- ja stabilisaatiokiskot
+Yksittäinen rtg-kuva 30,00€
 
-Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
+Koko leuan rtg-kuva (PTG-kuva) 100,00€
 
 
 
+**Paikkaukset:**
+
+Yhden pinnan täyte 90,00€
+
+Kahden pinnan täyte 140,00€
+
+Kolmen tai neljän pinnan täyte 160,00€
+
+Muovikruunu 190,00€
 
 
 
+**Hammaskiven poisto:**
+
+45,00-165,00€ riippuen käytetystä ajasta.
 
 
 
-Kelan kautta saatava korvaus yksityiseen hammashoitoon tulee suorakorvauksena.
+**Hampaan poisto:**
+
+Tavallinen hampaan poisto 99,00€
+
+Vaativa hampaan poisto 149,00€
+
+Hampaan poiston hintaan sisältyy puudutus.
+
+
+
+**Puudutus:**
+
+Pintapuudutus 19,00€
+
+Puudutus 26,00-29,00€
+
+
+
+Ei käynti-, toimisto-, kanta- tai e-reseptimaksuja.
+
+
 
 
 
