@@ -6,7 +6,7 @@ banner: /uploads/Rectangle.png
 staff:
   - portrait: /uploads/img_4485-1.jpg
     name: Juho Lähteenoja
-    description: Hammaslääkäri           (Turun yliopisto 2018)
+    description: Hammaslääkäri
   - portrait: /uploads/logo.png
     name: Sanna-Riikka Makkonen
     description: Hammashoitaja
