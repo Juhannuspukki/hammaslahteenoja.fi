@@ -51,7 +51,7 @@ Muovikruunu 200,00€
 
 Tavallinen hampaan poisto 100,00€
 
-Vaativa hampaan poisto 150,00€
+Vaativa hampaan poisto 149,00€
 
 Hampaan poiston hintaan sisältyy puudutus.
 
