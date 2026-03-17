@@ -8,7 +8,7 @@ staff:
     name: Juho Lähteenoja
     description: Valmistunut hammaslääketieteen lisensiaatiksi Turun yliopistosta 2018.
   - portrait: /uploads/logo.png
-    name: "1"
+    name: Sanna-Riikka Makkonen
     description: Hammashoitaja
   - name: "2"
     portrait: /uploads/logo.png
