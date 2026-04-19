@@ -65,6 +65,30 @@ Ei käynti-, toimisto-, kanta- tai e-reseptimaksuja.
 
 Toimenpiteiden hinnat määräytyvät haastavuuden mukaan.
 
+
+
+**Suuhygienistiopiskelijan hinnasto:**
+
+Hammaskiven poisto 65,00€ (suppea)
+
+Hammaskiven poisto 85,00€ (laaja)
+
+Omahoidon opetus ja terveysneuvonta 50,00€
+
+Jauhepuhdistus 55,00€
+
+Purentalihasten hieronta 50,00€
+
+Hammaskorun kiinnitys (potilaan oma koru) 60,00€
+
+Valkaisu (suppea/ muutaman hampaan valkaisu) 85,00€
+
+Valkaisu (laaja) 200,00€.
+
+
+
+
+
 ## Maksutavat
 
 Käytössä on pankkikorttimaksupääte, lasku, E-passi tai Smartum-seteli.
