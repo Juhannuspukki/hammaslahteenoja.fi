@@ -13,6 +13,9 @@ staff:
   - name: "2"
     portrait: /uploads/logo.png
     description: Hammashoitaja
+  - name: Aino Rantanen
+    portrait: /uploads/ainon-kuva.jpeg
+    description: Suuhygienistiopiskelija
 ---
 
 # Henkilökunta
