@@ -35,11 +35,11 @@ Koko leuan rtg-kuva (PTG-kuva) 100,00€
 
 **Paikkaukset:**
 
-Yhden pinnan täyte 89,00€
+Yhden pinnan täyte 90,00€
 
-Kahden pinnan täyte 139,00€
+Kahden pinnan täyte 140,00€
 
-Kolmen tai neljän pinnan täyte 159,00€
+Kolmen tai neljän pinnan täyte 160,00€
 
 Muovikruunu 200,00€
 
