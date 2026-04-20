@@ -6,7 +6,7 @@ banner: /uploads/Rectangle.png
 ---
 # Yhteydenotto ja ajanvaraus
 
-**Särky-, lohkeama- tai tarkastusaika** on mahdollista varata
+**Särky-, lohkeama- tai tarkastusaika** **sekä suuhygienistiaika** on mahdollista varata
 [tästä](http://booking.assiscare.com/lahteenoja/appointment)
 
 Yhteydenotto myös puhelimitse tai sähköpostitse.
