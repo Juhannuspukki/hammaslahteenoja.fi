@@ -10,7 +10,7 @@ staff:
   - portrait: /uploads/logo.png
     name: Sanna-Riikka Makkonen
     description: Hammashoitaja
-  - name: "2"
+  - name: Anneli Karjalainen
     portrait: /uploads/logo.png
     description: Hammashoitaja
   - name: Aino Rantanen
