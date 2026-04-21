@@ -9,11 +9,18 @@ banner: /uploads/Rectangle.png
 * Tarkastukset
 * Röntgentutkimukset
 * Korjaava karieshoito
-* Parodontologinen hoito
+* Parodontologinen hoito (hammaskiven poistot)
 * Hampaiden poistot
 * Biopsiat
 * Protetiikka
 * Purenta- ja stabilisaatiokiskot
+* Suuhygienistipalvelut
+
+  * hammaskiven poistot
+  * valkaisut ja puhdistukset
+  * purentalihashieronta
+  * hammaskorun kiinnitys
+  * omahoidon opetus ja terveysneuvonta
 
 Apua saatavissa myös särky- sekä lohkeamatilanteissa. Kauttamme leikkauskelpoisuustodistukset.
 
