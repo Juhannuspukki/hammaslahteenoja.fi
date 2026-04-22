@@ -52,7 +52,7 @@ Muovikruunu 200,00€
 
 **Hammaskiven poisto:**
 
-55,00-185,00€ riippuen käytetystä ajasta.
+65,00-185,00€ riippuen käytetystä ajasta.
 
 **Hampaan poisto:**
 
