@@ -52,7 +52,7 @@ Muovikruunu 220,00€ (200,00€)
 
 **Hammaskiven poisto:**
 
-85,00-235,00€ (65,00-185,00€) riippuen käytetystä ajasta.
+85,00-225,00€ (65,00-185,00€) riippuen käytetystä ajasta.
 
 **Hampaan poisto:**
 
@@ -94,3 +94,11 @@ Valkaisu (laaja) 200,00€.
 
 Käytössä on pankkikorttimaksupääte, lasku, E-passi tai Smartum-seteli.
 Ei käteismaksua.
+
+
+
+**Potilasasiavastaava**
+
+Potilasasiavastaavana toimii Satakunnan hyvinvointialueen potilasasiavastaava, jonka yhteystiedot löytyvät osoitteesta:
+
+https://satakunnanhyvinvointialue.fi/asiointiopas/potilaan-oikeudet-ja-tietosuoja/potilasasiavastaava-ja-sosiaaliasiavastaava/
