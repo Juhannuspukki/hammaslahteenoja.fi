@@ -13,9 +13,6 @@ staff:
   - name: Anneli Karjalainen
     portrait: /uploads/logo.png
     description: Hammashoitaja
-  - name: Aino Rantanen
-    portrait: /uploads/ainon-kuva.jpeg
-    description: Suuhygienistiopiskelija
 ---
 
 # Henkilökunta
