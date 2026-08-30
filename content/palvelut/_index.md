@@ -57,20 +57,20 @@ Hampaan poiston hintaan sisältyy puudutus.
 
 **Puudutus:**
 
-Pintapuudutus 19,00€
+Pintapuudutus 10,00€
 
-Puudutus 26,00-29,00€
+Puudutus 10,00-26,00€
 
 Ei käynti-, toimisto-, kanta- tai e-reseptimaksuja.
 
-Toimenpiteiden hinnat määräytyvät haastavuuden mukaan.
+**Toimenpiteiden hinnat määräytyvät haastavuuden ja käytetyn ajan mukaan.**
 
-
+**Yleensä pyritään tekemään samalla käynnillä useampia toimenpiteitä (esimerkiksi viereisten hampaiden paikkaukset tai saman puudutetun alueen hampaan paikkaus ja hammaskiven poisto), jolloin listahintoihin tulee huomattavasti alennusta.**
 
 ## Maksutavat
 
 Käytössä on pankkikorttimaksupääte, lasku, E-passi tai Smartum-seteli.
-Ei käteismaksua.
+Käteismaksu poikkeustapauksissa.
 
 **Potilasasiavastaava**
 
