@@ -29,7 +29,7 @@ Suun perustutkimus 81,50€ (51,50€)
 
 Tarkastuksessa otettavat rtg-kuvat/ BW-kuvat  53,00€ (43,00€)
 
-Yksittäinen rtg-kuva 35,00€ (30,00€)
+Yksittäinen rtg-kuva 30,00€ (25,00€)
 
 Koko leuan rtg-kuva (PTG-kuva) 110,00€ (100,00€)
 
