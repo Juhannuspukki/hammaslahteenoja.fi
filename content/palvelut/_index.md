@@ -27,7 +27,7 @@ Suun perustutkimus 81,50€ (51,50€)
 
 **Kuvantaminen:**
 
-Tarkastuksessa otettavat rtg-kuvat/ BW-kuvat  43,00€ (33,00€)
+Tarkastuksessa otettavat rtg-kuvat/ BW-kuvat  53,00€ (43,00€)
 
 Yksittäinen rtg-kuva 35,00€ (30,00€)
 
